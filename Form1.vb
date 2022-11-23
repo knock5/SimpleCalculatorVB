@@ -102,7 +102,7 @@
             TxtHasil.Text = "8"
             operasiHitung = False
         Else
-            TxtHasil.Text = TxtHasil.Text + "2"
+            TxtHasil.Text = TxtHasil.Text + "8"
         End If
 
 
